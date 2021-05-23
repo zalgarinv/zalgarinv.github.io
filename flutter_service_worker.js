@@ -26,7 +26,7 @@ const RESOURCES = {
 "assets/logo.jpg": "aecfacdbcc3065af3a7d77c4a60f84e9",
 "assets/maybelline.png": "f60d7061064fda67018194833ac6a5d1",
 "assets/newspaper.jpg": "649f63a0f7fdf245c06ee250dffcfb0f",
-"assets/newspaper2.jpg": "6477a94e63823579ed8ee8bc15fc27b5",
+"assets/newspaper2.jpg": "0a062839f2fdcf120ed537929c9dc10e",
 "assets/NOTICES": "b382ebb271e681977abc897c49afda5d",
 "assets/piso13.png": "b27cdb2c5b78edbde37fa30cd6d1fb01",
 "assets/usc.png": "efdfa97d16abc55ccad00985882ee492",
@@ -50,12 +50,12 @@ const RESOURCES = {
 "assets/web%255Cassets%255Clogo.jpg": "aecfacdbcc3065af3a7d77c4a60f84e9",
 "assets/web%255Cassets%255Cmaybelline.png": "f60d7061064fda67018194833ac6a5d1",
 "assets/web%255Cassets%255Cnewspaper.jpg": "649f63a0f7fdf245c06ee250dffcfb0f",
-"assets/web%255Cassets%255Cnewspaper2.jpg": "6477a94e63823579ed8ee8bc15fc27b5",
+"assets/web%255Cassets%255Cnewspaper2.jpg": "0a062839f2fdcf120ed537929c9dc10e",
 "assets/web%255Cassets%255Cpiso13.png": "b27cdb2c5b78edbde37fa30cd6d1fb01",
 "assets/web%255Cassets%255Cusc.png": "efdfa97d16abc55ccad00985882ee492",
 "index.html": "d33be69e2b9ac317e5df43e3b05ce949",
 "/": "d33be69e2b9ac317e5df43e3b05ce949",
-"main.dart.js": "c3fa9ecaf70ec0dfb78ea2e6cb19bd24",
+"main.dart.js": "28acafec73b713ab6b05682e56621554",
 "manifest.json": "cca295e5aea87460eb018e9f99807d59",
 "version.json": "d4dad6ca50fb1e75163bc9b367e12a5c"
 };
